@@ -1,1 +1,21 @@
 ## 10th July 2025
+
+Started my morning on a high note.
+Bought a bunch of dairy and healthy products — spent quite a bit of money too — and set up a nice breakfast table for myself and my little sister.
+Didn’t dive into IT stuff in the morning, but after lunch, I headed out with a friend to Nazarbayev University to keep pushing my project forward.
+
+Together with him and another mutual friend, we split the cost for a ChatGPT Plus subscription, since it became super necessary.
+Also, I bought a few API tokens for GPT — invested 5,000₸ into it, which should last me a while for AI requests.
+
+But man, the obstacles really hit hard today.
+While working on certain database tables, I realized some of the fields are ridiculously complex and packed with data.
+By my estimate, filling them all manually would take at least 3 months.
+That just seemed super inefficient, so I leaned more into ChatGPT to handle it.
+
+But even then, more issues popped up.
+The model struggled to tell where it should fill data and where not to, which made the whole process kinda frustrating and really slowed me down.
+
+In the end, I had to pause the project, realizing I lack some critical knowledge to push it further right now.
+But surprisingly, I found a book that fits my topic perfectly — almost like it was waiting for me.
+
+To top it off, I got in 12,000 steps today. Not bad.
