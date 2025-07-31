@@ -1,1 +1,14 @@
 ##13th July 2025
+
+Woke up early. Slept late. Again.
+Trying to fix my sleep schedule feels like trying to update a legacy codebase — every time I patch something, I break something else.
+
+Helped my sister with a few things, which was cool.
+But still… I feel like I’m stuck in some weird mental loop.
+Like I’m doing stuff, but none of it really moves me forward.
+Feels like I’m fighting a bug I haven’t even defined yet.
+
+What’s missing? Probably discipline. Maybe clarity.
+Definitely stability.
+
+Right now, I feel like I’m running on while(True) with no exit condition.
