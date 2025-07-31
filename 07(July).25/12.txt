@@ -1,1 +1,14 @@
 ##12th July 2025
+
+Woke up at 8AM — forced myself to do something.
+Took another look at the project, but this time with a realistic lens, not my usual overly optimistic “I’ll finish this in one sitting” mood.
+
+Reflecting on the last bottleneck, a new idea hit me:
+Why not create a bot that picks common code patterns based on popular categories?
+In other words — let’s put the Pareto Principle to work.
+If I focus on coding for the top 20% of categories, I could still cover 80% of the profitable cases.
+Yeah, it’s gonna be tedious — but not too tedious. I could probably finish it in a week.
+
+Still… something’s shifting. I’m starting to feel that weird pressure from the outside world.
+Everyone's out enjoying their summer, while I’m deep in my grind.
+Kinda makes me question my pace — but I know this path is mine.
